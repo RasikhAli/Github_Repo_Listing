@@ -17,7 +17,7 @@ Before running this script, ensure you have the following prerequisites in place
    pip install requests
    pip install pygithub
 
-Usage:
+## Usage:
 1. Clone or download this repository to your local machine.
 
 2. Open the Python script (github_repo_listing.py) in a text editor.
@@ -35,10 +35,10 @@ Usage:
 
 The script will make API requests to GitHub to list your public and private repositories and display them in the terminal.
 
-License
+## License
 This script is provided under the MIT License. You are free to use and modify it as needed.
 
-Acknowledgments
+## Acknowledgments
 This script utilizes the GitHub API to interact with your GitHub repositories. Special thanks to the GitHub team for providing this API.
 
 Happy coding!
