@@ -8,12 +8,12 @@ This Python script is designed to retrieve and list both your public and private
 Before running this script, ensure you have the following prerequisites in place:
 
 1. **GitHub Account**: You need an active GitHub account.
-2. 
-3. **GitHub Personal Access Token**: Generate a GitHub Personal Access Token to authenticate with the GitHub API. Instructions on creating a token can be found [here](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token). (Login to github, goto settings -> developer settings -> personal access token -> tokens(classic) -> click on "generate new token (classic)" -> tick the checkbox of "repo" -> click generate
 
-4. **Python**: Ensure you have Python installed on your system. You can download Python from the official website: [Python Downloads](https://www.python.org/downloads/).
+2. **GitHub Personal Access Token**: Generate a GitHub Personal Access Token to authenticate with the GitHub API. Instructions on creating a token can be found [here](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token). (Login to github, goto settings -> developer settings -> personal access token -> tokens(classic) -> click on "generate new token (classic)" -> tick the checkbox of "repo" -> click generate
 
-5. **Required Python Libraries**: Install the required Python libraries using the following command:
+3. **Python**: Ensure you have Python installed on your system. You can download Python from the official website: [Python Downloads](https://www.python.org/downloads/).
+
+4. **Required Python Libraries**: Install the required Python libraries using the following command:
    pip install requests
    pip install pygithub
 
